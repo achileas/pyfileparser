@@ -1,4 +1,4 @@
-# subjectmatch.py
+# pyfileparser
 # reads through reapeat subject files
 # groups same subjects together for later analysis via matlab
 # inputs 1.txt, 2.txt,..., 3.txt
